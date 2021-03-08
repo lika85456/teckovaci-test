@@ -1,5 +1,5 @@
 # teckovaci-test
 
 ## Jak použít program?
--Stáhnout celý repositář
--Otevřít soubor index.html ve webovém prohlížeči
+1) Stáhnout celý repositář
+2) Otevřít soubor index.html ve webovém prohlížeči
